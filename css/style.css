@@ -1,0 +1,70 @@
+.python-blue{
+    background-color:#1E88E5;
+}
+
+.python-blue-gradient{
+    background-image: linear-gradient(to bottom right, #81D4FA , #0277BD, #004D40);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.ul-collapse li{
+    list-style: none;
+}
+
+.divider{
+    border-bottom: solid 1px #BDBDBD;
+    width: 20rem;
+}
+
+.gradient{
+    background-color: #263238;
+}
+
+.border-white{
+    border: white 1px solid;
+}
+
+.hello{
+    color:#BDBDBD;
+}
+
+.divider{
+    height: 1rem;
+    width: 0;
+    border-left: solid 1px #e9ecef;
+    overflow: hidden;
+}
+
+#event-desc-input{
+    border: none;
+    outline: 0px !important;
+    -webkit-appearance: none;
+    resize: none;
+}
+
+textarea{
+    resize: none;
+    font-size: 0.8em;
+    color: #424242;
+}
+
+#divider{
+    width: 70%;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+#logout:hover{
+    color: red;
+}
+
+table th:first-child{
+  border-radius:10px 0 0 10px;
+}
+
+table th:last-child{
+  border-radius:0 10px 10px 0;
+}
